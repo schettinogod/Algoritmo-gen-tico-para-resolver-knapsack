@@ -1,2 +1,2 @@
-# Algoritmo-gen-tico-para-resolver-knapsack
+# Algoritmo-genético-para-resolver-knapsack
 GA knapsack - IFF - Itaperuna - RJ
